@@ -6,13 +6,13 @@
 
 ```js
 # using npm
-npm install github-repos-search
+npm install github-repo-searcher
 
 # using yarn
-yarn add github-repos-search
+yarn add github-repo-searcher
 ```
 
-## Uses
+## Usage
 
 ```js
 const { getRepos } = require('github-repo-searcher');
