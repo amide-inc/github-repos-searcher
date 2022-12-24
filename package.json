@@ -3,10 +3,15 @@
   "version": "1.0.0",
   "description": "npm pakage for string pipline",
   "main": "index.js",
+  "homepage" : "https://github.com/amide-inc/github-repos-searcher",
+  "repository": {
+    "type": "git",
+    "url" : "git+https://github.com/amide-inc/github-repos-searcher.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "amin uddin",
+  "author": "amin uddin <devaminza@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.20.0"
