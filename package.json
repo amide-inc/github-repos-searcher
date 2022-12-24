@@ -1,5 +1,5 @@
 {
-  "name": "github-repos-searcher",
+  "name": "github-repo-searcher",
   "version": "1.0.0",
   "description": "npm pakage for string pipline",
   "main": "index.js",
@@ -13,6 +13,14 @@
   },
   "author": "amin uddin <devaminza@gmail.com>",
   "license": "ISC",
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "star",
+    "developer",
+    "git"
+  ],
   "dependencies": {
     "axios": "^0.20.0"
   }
