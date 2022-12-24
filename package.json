@@ -1,6 +1,6 @@
 {
   "name": "github-repo-searcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm pakage for string pipline",
   "main": "index.js",
   "homepage" : "https://github.com/amide-inc/github-repos-searcher",
